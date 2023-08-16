@@ -1,14 +1,14 @@
 # PowerBI_Dashboard
 
-This project is a PowerBI dashboard that provides insights into Walmart sales data. The dashboard uses a variety of visuals to show trends in sales, customer demographics, and product performance.
+This project is a Power BI dashboard that provides insights into Walmart sales data. The dashboard uses a variety of visuals to show trends in sales, customer demographics, and product performance.
 
 ## Project Description
 
-The goal of this project was to create a PowerBI dashboard that would help a sales team make better decisions. The dashboard was designed to be easy to use and understand, and it provides a variety of insights that can be used to improve sales performance.
+The goal of this project was to create a Power BI dashboard that would help a sales team make better decisions. The dashboard was designed to be easy to use and understand, and it provides a variety of insights that can be used to improve sales performance.
 
 ## How to Use the Project
 
-To use the project, you will need to have PowerBI installed on your computer. Once you have PowerBI installed, you can open the `WD.pbix` file in the project directory. The dashboard will open in PowerBI, and you can start exploring the data. 
+To use the project, you will need to have Power BI installed on your computer. Once you have Power BI installed, you can open the `WD.pbix` file in the project directory. The dashboard will open in Power BI, and you can start exploring the data. 
 
 ## Project Files
 
